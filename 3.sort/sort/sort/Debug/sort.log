@@ -1,0 +1,110 @@
+﻿  main.cpp
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(35): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(30): note: 编译 类 模板 成员函数 "void sort<int>::insert_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(23): note: 参见对正在编译的函数 模板 实例化“void sort<int>::insert_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(9): note: 参见对正在编译的 类 模板 实例化 "sort<int>" 的引用
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(82): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(75): note: 编译 类 模板 成员函数 "void sort<int>::shell_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(32): note: 参见对正在编译的函数 模板 实例化“void sort<int>::shell_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(112): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(146): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(125): note: 编译 类 模板 成员函数 "void sort<int>::bubble_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(41): note: 参见对正在编译的函数 模板 实例化“void sort<int>::bubble_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(186): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(180): note: 编译 类 模板 成员函数 "void sort<int>::get_quick_sort_info(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(59): note: 参见对正在编译的函数 模板 实例化“void sort<int>::get_quick_sort_info(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(203): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(199): note: 编译 类 模板 成员函数 "void sort<int>::select_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(50): note: 参见对正在编译的函数 模板 实例化“void sort<int>::select_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(205): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(221): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(244): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(234): note: 编译 类 模板 成员函数 "void sort<int>::heap_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(68): note: 参见对正在编译的函数 模板 实例化“void sort<int>::heap_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(245): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(286): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(331): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(315): note: 编译 类 模板 成员函数 "void sort<int>::merge_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(77): note: 参见对正在编译的函数 模板 实例化“void sort<int>::merge_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(341): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(347): warning C4018: “<”: 有符号/无符号不匹配
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(304): warning C4018: “<=”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(300): note: 编译 类 模板 成员函数 "void sort<int>::merge(T [],T [],::size_t,uint,uint,uint)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(325): note: 参见对正在编译的函数 模板 实例化“void sort<int>::merge(T [],T [],::size_t,uint,uint,uint)”的引用
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(30): note: 编译 类 模板 成员函数 "void sort<int>::insert_sort(T [],::size_t)" 时
+          with
+          [
+              T=int
+          ]
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\main.cpp(23): note: 参见对正在编译的函数 模板 实例化“void sort<int>::insert_sort(T [],::size_t)”的引用
+          with
+          [
+              T=int
+          ]
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\3.sort\sort\sort\sort.h(311): warning C4018: “<=”: 有符号/无符号不匹配
+  sort.vcxproj -> E:\University\FreshmanYear_Two\dataStructureAndAlgorithm\experimentsOfBUPT\3.sort\sort\Debug\sort.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\bitree.h(222): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\bitree.h(211): note: 编译 类 模板 成员函数 "void biTree<int>::levelOrder(void)" 时
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\main.cpp(17): note: 参见对正在编译的函数 模板 实例化“void biTree<int>::levelOrder(void)”的引用
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\main.cpp(11): note: 参见对正在编译的 类 模板 实例化 "biTree<int>" 的引用
+e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\bitree.h(239): warning C4018: “<”: 有符号/无符号不匹配
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\bitree.h(235): note: 编译 类 模板 成员函数 "void biTree<int>::sufficientLevelOrder(void)" 时
+  e:\university\freshmanyear_two\datastructureandalgorithm\experimentsofbupt\2.binary_tree\2.binary_tree\main.cpp(18): note: 参见对正在编译的函数 模板 实例化“void biTree<int>::sufficientLevelOrder(void)”的引用
+  2.binary_tree.vcxproj -> E:\University\FreshmanYear_Two\dataStructureAndAlgorithm\experimentsOfBUPT\2.binary_tree\Debug\2.binary_tree.exe
